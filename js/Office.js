@@ -41,7 +41,7 @@ export class Office {
         
         // Load the default map
         this.loadMap('office');
-    }
+    } 
     
     // New method to load a specific map by ID
     loadMap(mapId) {
